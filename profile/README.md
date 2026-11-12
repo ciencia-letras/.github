@@ -8,6 +8,8 @@
 
 This space brings together the R&D projects and teaching resources of **Ciência e Letras (CeL) — Formação Especializada, Lda.**, a DGERT-certified training provider based in Porto, Portugal, with almost 30 years of work in Health IT and applied artificial intelligence.
 
+🌐 **Home page: [ciencia-letras.github.io](https://ciencia-letras.github.io)** — teaching resources, R&D lines and open results.
+
 The full background is on the [Research and Innovation in Training](https://www.ciencia-letras.pt/investigacao-e-inovacao-em-formacao/) page (in Portuguese).
 
 ### R&D lines
@@ -57,6 +59,8 @@ UPTEC Asprela I, Rua Alfredo Allen, 455/461, 4200-135 Porto, Portugal
 ## Português
 
 Este espaço reúne os projetos de I&D e os recursos pedagógicos do **Ciência e Letras (CeL) — Formação Especializada, Lda.**, entidade formadora certificada pela DGERT com quase 30 anos de atividade em Health IT e em inteligência artificial aplicada.
+
+🌐 **Página: [ciencia-letras.github.io/pt](https://ciencia-letras.github.io/pt/)** — recursos pedagógicos, linhas de I&D e resultados abertos.
 
 O enquadramento completo está na página [Investigação e Inovação em Formação](https://www.ciencia-letras.pt/investigacao-e-inovacao-em-formacao/).
 
